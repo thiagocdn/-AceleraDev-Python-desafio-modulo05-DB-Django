@@ -1,0 +1,12 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/thiagocedran/codenation/python-9/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/thiagocedran/codenation/python-9, inifile:
+collecting ... collected 4 items
+
+test_main.py::TestChallenge9::test_1 PASSED                              [ 25%]
+test_main.py::TestChallenge9::test_2 PASSED                              [ 50%]
+test_main.py::TestChallenge9::test_3 PASSED                              [ 75%]
+test_main.py::TestChallenge9::test_4 PASSED                              [100%]
+
+=========================== 4 passed in 0.24 seconds ===========================
